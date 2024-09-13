@@ -21,7 +21,7 @@ This is a map to visualize USGS data that will allow them to better educate the 
 [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)                                                                                                                                         
 Used [USGS All Earthquakes from the Past 7 Days"](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
-For this step change the JavaScript(src) in the index.html to Leaflet-Part-1/static/js/logic.js:                                                                       
+For this step, change the JavaScript(src) in the index.html to Leaflet-Part-1/static/js/logic.js:                                                                       
 ```html
   <!-- Our JavaScript -->
   <script type="module" src="Leaflet-Part-1/static/js/logic.js"></script> 
@@ -47,7 +47,7 @@ Plot a second dataset on above map to illustrate the relationship between tecton
 ### Data source: 
 [Tectonic Plates Data](https://github.com/fraxen/tectonicplates)
 
-For this step change the JavaScript(src) in the index.html to Leaflet-Part-2/static/js/logic2.js:    
+For this step, change the JavaScript(src) in the index.html to Leaflet-Part-2/static/js/logic2.js:    
 ```html
   <!-- Our JavaScript -->
   <!--<script type="module" src="Leaflet-Part-1/static/js/logic.js"></script> --> 
