@@ -23,7 +23,7 @@ Used [USGS All Earthquakes from the Past 7 Days"](https://earthquake.usgs.gov/ea
 
 For this step change the JavaScript(src) in the index.html to Leaflet-Part-1/static/js/logic.js:                                                                       
 ```html
-<!-- Our JavaScript -->
+  <!-- Our JavaScript -->
   <script type="module" src="Leaflet-Part-1/static/js/logic.js"></script> 
   <!--<script type="module" src="Leaflet-Part-2/static/js/logic2.js"></script> -->
 ```
@@ -45,10 +45,12 @@ Plot a second dataset on above map to illustrate the relationship between tecton
 ### Data source: 
 [Tectonic Plates Data](https://github.com/fraxen/tectonicplates)
 
-For this step change the JavaScript(src) in the index.html to Leaflet-Part-2/static/js/logic2.js:                                                                    
-` <!-- Our JavaScript -->
+For this step change the JavaScript(src) in the index.html to Leaflet-Part-2/static/js/logic2.js:    
+```html
+  <!-- Our JavaScript -->
   <!--<script type="module" src="Leaflet-Part-1/static/js/logic.js"></script> --> 
-  <script type="module" src="Leaflet-Part-2/static/js/logic2.js"></script>`
+  <script type="module" src="Leaflet-Part-2/static/js/logic2.js"></script>`\
+```
 
 Following tasks were performed:
 
