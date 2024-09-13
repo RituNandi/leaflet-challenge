@@ -18,7 +18,7 @@ This is a map to visualize USGS data that will allow them to better educate the 
 ## Part 1: Create the Earthquake Visualization
 
 ### Data source: 
-[USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+[USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)                                                                                                                                         
 Used [USGS All Earthquakes from the Past 7 Days"](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
 For this step change the JavaScript(src) in the index.html to Leaflet-Part-1/static/js/logic.js:                                                                       
