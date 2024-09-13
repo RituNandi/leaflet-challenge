@@ -29,6 +29,7 @@ For this step change the JavaScript(src) in the index.html to Leaflet-Part-1/sta
 ```
 
 A map that plots all earthquakes in the past 7 days based on their longitude and latitude was created:
+Earthquake Visualization has been deployed to GitHub Pages. View the interactive version: [Earthquake Visualization](https://ritunandi.github.io/leaflet-challenge/)
 
 * Data markers reflect the magnitude of the earthquakes in their size and the depth of the earthquake by color. Earthquakes with higher magnitudes appear larger and 
   earthquakes with greater depth appear darker in color.
